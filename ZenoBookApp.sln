@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZenoBookApp", "ZenoBookApp\ZenoBookApp.csproj", "{7FEA19C0-C111-4DF5-A5FB-24A65E52ECFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{D13081BA-FF3B-47ED-AE51-4038BFE0DCE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessEngine", "BusinessEngine\BusinessEngine.csproj", "{DA997207-7E24-4E41-A0CE-44FF934683CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FEA19C0-C111-4DF5-A5FB-24A65E52ECFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FEA19C0-C111-4DF5-A5FB-24A65E52ECFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FEA19C0-C111-4DF5-A5FB-24A65E52ECFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FEA19C0-C111-4DF5-A5FB-24A65E52ECFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D13081BA-FF3B-47ED-AE51-4038BFE0DCE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13081BA-FF3B-47ED-AE51-4038BFE0DCE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13081BA-FF3B-47ED-AE51-4038BFE0DCE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13081BA-FF3B-47ED-AE51-4038BFE0DCE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA997207-7E24-4E41-A0CE-44FF934683CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA997207-7E24-4E41-A0CE-44FF934683CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA997207-7E24-4E41-A0CE-44FF934683CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA997207-7E24-4E41-A0CE-44FF934683CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

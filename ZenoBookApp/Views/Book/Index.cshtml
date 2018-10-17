@@ -1,0 +1,84 @@
+﻿
+@{
+    ViewBag.Title = "Books";
+}
+
+<h2>Books</h2>
+
+
+<div id="app">
+
+    <div class="form-group">
+        <label for="name">Book Name</label>
+        <input type="text" class="form-control" value="" v-model="bookName2" />
+        <button v-on:click="search">click</button>
+    </div>
+
+
+    Books:
+    <li v-for="book of books">
+        <strong>{{book.BookName}}</strong> -
+        {{book.Author}}
+    </li>
+
+    <hr />
+    <h1>Add Book</h1>
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="form-group">
+                <label for="name">Book Name</label>
+                <input type="text" class="form-control" value="" v-model="bookName" />
+            </div>
+            <div class="form-group">
+                <label for="name">Genre</label>
+                <input type="text" class="form-control" value="" v-model="genre" />
+            </div>
+            <button v-on:click="addBook">click</button>
+
+        </div>
+    </div>
+
+</div>
+
+<script>
+    new Vue({
+        el: '#app',
+        created() {
+        this.fetchData();	
+    },
+    data: {
+        books: [],
+        bookName:'',
+        genre:''
+    },
+    methods: {
+        fetchData() {
+            axios.get('/book/get').then(response => {
+                this.books = response.data;
+        });
+            
+        },
+
+        search() {
+            axios.get('/book/search?bookname=' + this.bookName2).then(response => {
+                this.books = response.data;
+            });
+
+        }
+         
+        ,
+    addBook() {
+
+        axios.post('/book/post', {
+            bookName: this.bookName,
+            genre: this.genre
+        });
+        this.fetchData();
+    },
+
+    }
+    });
+
+</script>
+
+

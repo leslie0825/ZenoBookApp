@@ -1,0 +1,124 @@
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\obj\Debug\ZenoBookApp.csprojResolveAssemblyReference.cache
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\ZenoBookApp.dll.config
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\ZenoBookApp.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\ZenoBookApp.pdb
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Antlr3.Runtime.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\EntityFramework.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\EntityFramework.SqlServer.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.Google.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Newtonsoft.Json.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Owin.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\System.Web.Helpers.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\System.Web.Mvc.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\System.Web.Optimization.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\System.Web.Razor.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\System.Web.WebPages.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\System.Web.WebPages.Razor.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\WebGrease.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Newtonsoft.Json.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\System.Web.Helpers.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\System.Web.Mvc.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\System.Web.Optimization.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\System.Web.Razor.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\System.Web.WebPages.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\System.Web.WebPages.Razor.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Antlr3.Runtime.pdb
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\EntityFramework.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\EntityFramework.SqlServer.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.Google.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\obj\Debug\ZenoBookApp.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\obj\Debug\ZenoBookApp.pdb
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\BusinessEngine.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Data.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Dapper.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\BusinessEngine.pdb
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Data.pdb
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\ZenoBookApp\bin\Dapper.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\ZenoBookApp.dll.config
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\ZenoBookApp.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\ZenoBookApp.pdb
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Antlr3.Runtime.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\BusinessEngine.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Data.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\EntityFramework.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Owin.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\System.Web.Helpers.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\System.Web.Mvc.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\System.Web.Optimization.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\System.Web.Razor.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\System.Web.WebPages.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\WebGrease.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Dapper.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\BusinessEngine.pdb
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Data.pdb
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\System.Web.Helpers.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\System.Web.Mvc.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\System.Web.Optimization.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\System.Web.Razor.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\System.Web.WebPages.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\EntityFramework.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\bin\Dapper.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\obj\Debug\ZenoBookApp.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\obj\Debug\ZenoBookApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\obj\Debug\ZenoBookApp.csproj.CopyComplete
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\obj\Debug\ZenoBookApp.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\ZenoBookApp\obj\Debug\ZenoBookApp.pdb

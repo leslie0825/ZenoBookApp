@@ -1,0 +1,20 @@
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\BusinessEngine\obj\Debug\BusinessEngine.csprojResolveAssemblyReference.cache
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\BusinessEngine\bin\Debug\BusinessEngine.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\BusinessEngine\bin\Debug\BusinessEngine.pdb
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\BusinessEngine\bin\Debug\Data.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\BusinessEngine\bin\Debug\Dapper.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\BusinessEngine\bin\Debug\Data.pdb
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\BusinessEngine\bin\Debug\Dapper.xml
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\BusinessEngine\obj\Debug\BusinessEngine.dll
+c:\users\civelek\documents\visual studio 2013\Projects\ZenoBookApp\BusinessEngine\obj\Debug\BusinessEngine.pdb
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\BusinessEngine\bin\Debug\BusinessEngine.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\BusinessEngine\bin\Debug\BusinessEngine.pdb
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\BusinessEngine\bin\Debug\Data.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\BusinessEngine\bin\Debug\Dapper.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\BusinessEngine\bin\Debug\Data.pdb
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\BusinessEngine\bin\Debug\Dapper.xml
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\BusinessEngine\obj\Debug\BusinessEngine.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\BusinessEngine\obj\Debug\BusinessEngine.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\BusinessEngine\obj\Debug\BusinessEngine.csproj.CopyComplete
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\BusinessEngine\obj\Debug\BusinessEngine.dll
+\\Mac\Home\Desktop\ZenoBookApp\ZenoBookApp\BusinessEngine\obj\Debug\BusinessEngine.pdb
